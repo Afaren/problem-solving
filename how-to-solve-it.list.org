@@ -55,7 +55,7 @@ You have to understand the problem.
 - Can you prove that it is correct?
   
   
-** Looktng Back
+** Looking Back
   Examine the solution obtained.
   
 - Can you check the result?
