@@ -1,5 +1,5 @@
 * How to solve it
-** First: UNDERSTANDING THE PROBLEM
+** Understanding The Problem
 You have to understand the problem.
 
 - What is the unknown? 
@@ -14,10 +14,8 @@ You have to understand the problem.
 - Can you write them down?
 
 
-** DEVISING A PLAN
-- Find the connection between the data and the unknown. 
-- You may be obliged to consider auxiliary problems if an immediate connection cannot be found. 
-- You should obtain eventually a plan of the solution.
+** Devising A Plan
+ Find the connection between the data and the unknown. You may be obliged to consider auxiliary problems if an immediate connection cannot be found. You should obtain eventually a plan of the solution.
  
  
 - Have you seen it before?
@@ -34,17 +32,13 @@ You have to understand the problem.
 - Could you restate the problem?
 - Could you restate it still differently? 
 - Go back to definitions.
- 
- 
 - If you can not solve the proposed problem try to solve first some related problem.
 - Could you imagine a more accessible related problem?
 - A more general problem?
 - A more special problem?
 - An analogous problem?
 - Could you solve a part of the problem?
-- Keep only a part of the condition, drop the other part;
-- how far is the unknown then determined, 
-- how can it vary?
+- Keep only a part of the condition, drop the other part; how far is the unknown then determined, how can it vary?
 - Could you derive something useful from the data?
 - Could you think of other data appropriate to determine the unknown?
 - Could you change the unknown or the data, or both if necessary, so that the new unknown and the new data are nearer to each other?
@@ -53,7 +47,7 @@ You have to understand the problem.
 - Have you taken into account all essential notions involved in the problem?
  
  
-** CARRYING OUT THE PLAN
+** Carrying Out The Plan
   Carry out your plan.
 
 - Carrying out your plan of the solution, check each step.
@@ -61,7 +55,7 @@ You have to understand the problem.
 - Can you prove that it is correct?
   
   
-** LOOKTNG RAC
+** Looktng Rac
   Examine the solution obtained.
   
 - Can you check the result?
