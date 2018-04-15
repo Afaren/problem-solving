@@ -26,7 +26,7 @@ You have to understand the problem.
 - Do you know a theorem that could be useful?
 - Look at the unknown!
 - And try to think of a familiar problem having the same or a similar unknown.
-- Here is a problem related to yours and solved before.
+- WHere is a problem related to yours and solved before.
 - Could you use it?
 - Could you use its result?
 - Could you use its method?
